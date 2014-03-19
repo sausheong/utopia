@@ -1,0 +1,4 @@
+ruby results/money.rb
+ruby results/inequality.rb
+ruby results/sex.rb
+ruby results/evolution.rb
